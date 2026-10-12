@@ -47,3 +47,6 @@ projects/**/expenses.json
 projects/**/students.txt
 projects/**/*.exe
 projects/**/grade_manager
+
+.vercel
+.env*
